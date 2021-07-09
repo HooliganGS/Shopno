@@ -27,4 +27,10 @@ window.addEventListener('DOMContentLoaded', () => {
             closePopup();
         }
     });
+    const formReset = document.querySelector('#form');
+
+    formReset.addEventListener('submit', function(e) {
+        e.preventDefault();
+        form.reset();
+    });
 });
