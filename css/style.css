@@ -739,9 +739,11 @@ input::placeholder {
         width: 300px
     }
     
-    .main-information__text-first {
-        text-align: center
+    .first-par,
+    .second-par {
+        text-align: center;
     }
+    
     
     .main-image__style {
         width: 300px;
