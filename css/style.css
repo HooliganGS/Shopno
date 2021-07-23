@@ -39,7 +39,7 @@
       margin-bottom: 10%;
   }
   
-  .header-text__style {
+  .header-text__title {
       margin-top: 17%;
       margin-bottom: 12%;
       text-align: center;
@@ -52,7 +52,7 @@
       color: #505050;
   }
   
-  .header-text__style span {
+  .header-text__title span {
       background-color: #76f4ea;
       padding: 0 15px;
   }
@@ -64,7 +64,7 @@
       margin-left: 0%;
   }
   
-  .header-button__style {
+  .header-button__contact {
       display: block;
       margin: 0 auto;
       width: 232px;
@@ -81,14 +81,14 @@
       transition: .3s;
   }
   
-  .header-button__style:hover {
+  .header-button__contact:hover {
       cursor: pointer;
       background-color: rgb(103, 189, 192);
       transition: .3s;
       transform: scale(1.1);
   }
   
-  .header-button__text {
+  .header-button__contact {
       font-family: Montserrat;
       font-size: 18px;
       line-height: 28px;
@@ -201,7 +201,7 @@
       letter-spacing: 0.0445em;
   }
   
-  .main-image__style {
+  .main-image {
       padding-left: 15px;
   }
   
@@ -217,7 +217,7 @@
   
   .featured-works {
       min-height: 1165px;
-      padding-top: 204px;
+      padding-top: 9%;
   }
   
   .featured-works__text {
@@ -287,13 +287,13 @@
       /* margin-left: 19px; */
   }
   
-  .featured-img__style {
+  .featured-img {
       width: 371px;
       cursor: pointer;
       transition: .3s;
   }
   
-  .featured-img__style:hover {
+  .featured-img:hover {
       transition: .3s;
       transform: scale(1.03);
   }
@@ -301,7 +301,7 @@
   .small-team {
       min-height: 1360px;
       margin: 0 auto;
-      padding-top: 175px;
+      padding-top: 6%;
       background-color: #f9fbfb;
   }
   
@@ -344,42 +344,42 @@
       row-gap: 14px;
   }
   
-  .team-member_first {
+  .team-member_img1 {
       position: relative;
       height: 440px;
       width: 370px;
       background-image: url(../images/first_member.png);
   }
   
-  .team-member_second {
+  .team-member_img2 {
       position: relative;
       height: 440px;
       width: 370px;
       background-image: url(../images/second_member.png);
   }
   
-  .team-member_third {
+  .team-member_img3 {
       position: relative;
       height: 440px;
       width: 370px;
       background-image: url(../images/third_member.png);
   }
   
-  .team-member_four {
+  .team-member_img4 {
       position: relative;
       height: 440px;
       width: 370px;
       background-image: url(../images/four_member.png);
   }
   
-  .team-member_five {
+  .team-member_img5 {
       position: relative;
       height: 440px;
       width: 370px;
       background-image: url(../images/five_member.png);
   }
   
-  .team-member_six {
+  .team-member_img6 {
       position: relative;
       height: 440px;
       width: 370px;
@@ -478,7 +478,7 @@
       font-size: 15px;
       background: url(../images/snow.png);
       background-color: #f9fbfb;
-      padding-top: 196px;
+      padding-top: 8%;
   }
   
   .contact-wrapper {
@@ -594,7 +594,7 @@
       padding-top: 85px;
   }
   
-  .footer-text__style {
+  .footer-text__title {
       opacity: 0.8;
       font-family: Raleway;
       font-size: 16px;
@@ -695,7 +695,7 @@
       .main-information__text {
           width: 300px
       }
-      .main-image__style {
+      .main-image {
           width: 310px;
           -o-object-fit: cover;
           object-fit: cover
@@ -729,7 +729,7 @@
       .container {
           max-width: 540px
       }
-      .header-text__style {
+      .header-text__title {
           font-size: 30px;
           line-height: 40px
       }
@@ -744,7 +744,7 @@
       .main-information__text {
           width: 500px
       }
-      .main-image__style {
+      .main-image {
           width: 500px;
           height: 300px;
           margin-bottom: 40px
@@ -792,7 +792,7 @@
       .header {
           height: 530px
       }
-      .header-text__style {
+      .header-text__title {
           margin-top: 50px;
           margin-bottom: 50px
       }
@@ -806,7 +806,7 @@
       .second-par {
           text-align: center;
       }
-      .main-image__style {
+      .main-image {
           width: 300px;
           height: 300px;
           margin-bottom: 40px
@@ -834,37 +834,37 @@
       .small-team__images {
           margin-top: 50px
       }
-      .team-member-first {
+      .team-member_img1 {
           width: 300px;
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
       }
-      .team-member_second {
+      .team-member_img2 {
           width: 300px;
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
       }
-      .team-member_third {
+      .team-member_img3 {
           width: 300px;
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
       }
-      .team-member_four {
+      .team-member_img4 {
           width: 300px;
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
       }
-      .team-member_five {
+      .team-member_img5 {
           width: 300px;
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
       }
-      .team-member_six {
+      .team-member_img6 {
           width: 300px;
           background-size: cover;
           background-position: center;
