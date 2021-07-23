@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded', () => {
 
-    const popupImages = document.querySelectorAll('.featured-img__style');
+    const popupImages = document.querySelectorAll('.featured-img');
     const popup = document.querySelector('.popup');
 
     popupImages.forEach((img, index) => {
