@@ -27,7 +27,7 @@
       margin: 0 auto;
   }
   
-  .header_logo {
+  .header-logo {
       margin-left: 0;
       padding-top: 5.7%;
   }
@@ -39,7 +39,7 @@
       margin-bottom: 10%;
   }
   
-  .header_text__style {
+  .header-text__style {
       margin-top: 17%;
       margin-bottom: 12%;
       text-align: center;
@@ -52,19 +52,19 @@
       color: #505050;
   }
   
-  .header_text__style span {
+  .header-text__style span {
       background-color: #76f4ea;
       padding: 0 15px;
   }
   
-  .header_button {
+  .header-button {
       display: flex;
       justify-content: center;
       /* padding-top: 12%; */
       margin-left: 0%;
   }
   
-  .header_button__style {
+  .header-button__style {
       display: block;
       margin: 0 auto;
       width: 232px;
@@ -81,14 +81,14 @@
       transition: .3s;
   }
   
-  .header_button__style:hover {
+  .header-button__style:hover {
       cursor: pointer;
       background-color: rgb(103, 189, 192);
       transition: .3s;
       transform: scale(1.1);
   }
   
-  .header_button__text {
+  .header-button__text {
       font-family: Montserrat;
       font-size: 18px;
       line-height: 28px;
@@ -98,7 +98,7 @@
       scroll-behavior: smooth;
   }
   
-  .header_image {
+  .header-image {
       display: flex;
       justify-content: flex-end;
       margin-right: 5%;
@@ -663,7 +663,7 @@
       .container {
           max-width: 960px
       }
-      .header_image {
+      .header-image {
           display: none;
       }
       .featured-works__images img {
@@ -711,7 +711,7 @@
       .featured-works__images img {
           width: 350px
       }
-      .popup__content img {
+      .popup-content img {
           height: 70vh
       }
       .form {
@@ -729,7 +729,7 @@
       .container {
           max-width: 540px
       }
-      .header_text__style {
+      .header-text__style {
           font-size: 30px;
           line-height: 40px
       }
@@ -758,7 +758,7 @@
       .featured-works__images img {
           width: 260px
       }
-      .popup__content img {
+      .popup-content img {
           height: 50vh
       }
       .small-team__images {
@@ -792,7 +792,7 @@
       .header {
           height: 530px
       }
-      .header_text__style {
+      .header-text__style {
           margin-top: 50px;
           margin-bottom: 50px
       }
@@ -824,7 +824,7 @@
       .featured-works__images img {
           width: 100%
       }
-      .popup__content img {
+      .popup-content img {
           height: 40vh
       }
       .small-team {
