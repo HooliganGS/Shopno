@@ -23,7 +23,7 @@ window.addEventListener('DOMContentLoaded', () => {
     }
 
     popup.addEventListener('click', (e) => {
-        if (e.target == popup) {
+        if (e.target === popup) {
             closePopup();
         }
     });
