@@ -282,8 +282,7 @@
       flex-wrap: wrap;
       margin-top: 115px;
       justify-content: space-between;
-      row-gap: 13px;
-      /* margin-left: 19px; */
+      gap: 13px;
   }
   
   .featured-img {
