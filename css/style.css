@@ -40,8 +40,8 @@
   }
   
   .header_text__style {
-      margin-top: 200px;
-      margin-bottom: 137px;
+      margin-top: 17%;
+      margin-bottom: 12%;
       text-align: center;
       font-size: 45px;
       line-height: 59px;
@@ -119,7 +119,7 @@
   .main-information {
       display: flex;
       justify-content: space-around;
-      padding-top: 141px;
+      padding-top: 9%;
   }
   
   .main-intro__text-par {
