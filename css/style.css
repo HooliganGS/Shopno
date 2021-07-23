@@ -292,11 +292,6 @@
       transition: .3s;
   }
   
-  .featured-img:hover {
-      transition: .3s;
-      transform: scale(1.03);
-  }
-  
   .small-team {
       min-height: 1360px;
       margin: 0 auto;
