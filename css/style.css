@@ -100,8 +100,8 @@
   .header-image {
       display: flex;
       justify-content: flex-end;
-      margin-right: 5%;
-      margin-top: -3.1%;
+      margin-right: 3.5rem;
+      margin-top: -2rem;
   }
   
   .main-content {
@@ -153,7 +153,7 @@
       line-height: 28px;
       font-weight: 700;
       text-transform: uppercase;
-      /* letter-spacing: 1.2px; */
+      letter-spacing: 1.2px;
       color: #000000;
   }
   
