@@ -3,7 +3,7 @@
   }
   
   * :root {
-      --primary-width: 400px;
+      --primary-width: 300px;
   }
   
   ul {
@@ -775,8 +775,8 @@
           height: 530px
       }
       .header-text__title {
-          margin-top: 50px;
-          margin-bottom: 50px
+          margin-top: 3rem;
+          margin-bottom: 3rem;
       }
       .main-information {
           padding-top: 40px
@@ -867,10 +867,10 @@
           margin-bottom: 10px
       }
       .contact-form {
-          width: var(--primary-width);
+          width: 300px;
       }
       .contact-contact {
-          width: var(--primary-width);
+          width: 300px;
       }
       .map iframe {
           width: 257px
