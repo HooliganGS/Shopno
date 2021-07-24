@@ -267,9 +267,10 @@
   
   .popup-img {
       position: absolute;
-      top: 6%;
-      left: 30%;
-      width: 700px;
+      top: 22%;
+      left: 35%;
+      width: 40%;
+      /* height: 74%; */
   }
   
   .hiden-popup {
@@ -703,7 +704,7 @@
           width: 350px
       }
       .popup-content img {
-          height: 70vh
+          /* height: 70vh; */
       }
       .form {
           width: 350px
@@ -756,10 +757,10 @@
           margin-top: 80px
       }
       .featured-works__images img {
-          width: 260px
+          width: 260px;
       }
       .popup-content img {
-          height: 50vh
+          /* height: 50vh */
       }
       .small-team__images {
           margin-top: 80px
@@ -829,7 +830,8 @@
           width: 100%
       }
       .popup-content img {
-          height: 40vh
+      width: 83%;
+      left: 8%;
       }
       .small-team {
           padding-top: 50px;
