@@ -2,6 +2,10 @@
       box-sizing: border-box;
   }
   
+  * :root {
+      --primary-width: 400px;
+  }
+  
   ul {
       list-style: none;
   }
@@ -863,10 +867,10 @@
           margin-bottom: 10px
       }
       .contact-form {
-          width: 300px
+          width: var(--primary-width);
       }
       .contact-contact {
-          width: 300px
+          width: var(--primary-width);
       }
       .map iframe {
           width: 257px
