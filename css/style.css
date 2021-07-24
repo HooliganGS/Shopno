@@ -4,6 +4,7 @@
   
   * :root {
       --primary-width: 300px;
+      --font-Merri: Merriweather;
   }
   
   ul {
@@ -134,7 +135,7 @@
   
   .main-intro__text-content {
       opacity: 0.61;
-      font-family: Merriweather;
+      font-family: var(--font-Merri);
       font-size: 18px;
       line-height: 28px;
       font-weight: 400;
@@ -148,7 +149,7 @@
   .first-par,
   .second-par {
       opacity: 0.74;
-      font-family: Merriweather;
+      font-family: var(--font-Merri);
       font-size: 20px;
       line-height: 28px;
       font-weight: 700;
@@ -237,7 +238,7 @@
   
   .featured-works__text-main {
       opacity: 0.61;
-      font-family: Merriweather;
+      font-family: var(--font-Merri);
       font-size: 17px;
       line-height: 28px;
       font-weight: 400;
@@ -319,7 +320,7 @@
   
   .small-team__text-main {
       opacity: 0.61;
-      font-family: Merriweather;
+      font-family: var(--font-Merri);
       font-size: 17px;
       line-height: 28px;
       font-weight: 400;
