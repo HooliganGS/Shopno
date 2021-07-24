@@ -3,7 +3,7 @@ window.addEventListener('DOMContentLoaded', () => {
     const popupImages = document.querySelectorAll('.featured-img');
     const popup = document.querySelector('.popup');
 
-    popupImages.forEach((img, index) => {
+    popupImages.forEach((img) => {
         img.addEventListener('click', (img) => {
             document.querySelector('.popup-img').src = img.target.src;
         });
@@ -28,7 +28,7 @@ window.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    const formReset = document.querySelector('#form');
+    const formReset = document.getElementById('form');
 
     formReset.addEventListener('submit', function(e) {
         e.preventDefault();
