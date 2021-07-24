@@ -632,6 +632,8 @@
       -moz-transition: .3s;
       -ms-transition: .3s;
       -o-transition: .3s;
+      margin-left: 1px;
+      margin-top: 1px;
   }
   
   .social-list_item:hover {
