@@ -561,20 +561,6 @@
       color: #ffffff;
   }
   
-  .text-contact:hover {
-      color: rgb(210, 247, 212);
-      transition: .3s;
-      transform: scale(1.05);
-      -webkit-transition: .3s;
-      -moz-transition: .3s;
-      -ms-transition: .3s;
-      -o-transition: .3s;
-      -webkit-transform: scale(1.05);
-      -moz-transform: scale(1.05);
-      -ms-transform: scale(1.05);
-      -o-transform: scale(1.05);
-  }
-  
   .footer {
       height: 315px;
       text-align: center;
