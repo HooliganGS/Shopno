@@ -61,7 +61,6 @@
   .header-button {
       display: flex;
       justify-content: center;
-      /* padding-top: 12%; */
       margin-left: 0;
   }
   
@@ -154,7 +153,7 @@
       line-height: 28px;
       font-weight: 700;
       text-transform: uppercase;
-      letter-spacing: 0.068em;
+      /* letter-spacing: 1.2px; */
       color: #000000;
   }
   
@@ -207,12 +206,10 @@
   
   .main-information__text {
       width: 474px;
-      padding-left: 2.3%;
   }
   
   .main-information__text-second {
-      margin-top: 29px;
-      margin-left: -2px;
+      margin-top: 30px;
   }
   
   .featured-works {
@@ -243,7 +240,7 @@
       line-height: 28px;
       font-weight: 400;
       text-transform: uppercase;
-      letter-spacing: 0.072em;
+      letter-spacing: 1.2px;
       color: #000000;
       margin-top: 9px;
       margin-left: -41px;
