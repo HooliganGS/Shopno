@@ -267,8 +267,8 @@
   
   .popup-img {
       position: absolute;
-      top: 22%;
-      left: 35%;
+      top: 0;
+      left: 36%;
       width: 40%;
       /* height: 74%; */
   }
